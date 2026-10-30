@@ -1,0 +1,32 @@
+body {
+  background: aliceblue;
+}
+
+body a:link {
+  color: mediumblue;
+  text-decoration: none;
+}
+
+body a:visited {
+  color: darkblue;
+  text-decoration: none;
+}
+
+body a:hover {
+  color: darkgreen;
+  text-decoration: none;
+}
+
+body a:active {
+  color: springgreen;
+  text-decoration: none;
+}
+
+.heading {
+  color: teal;
+}
+
+#mnt-period {
+  margin-left: 2%;
+}
+
